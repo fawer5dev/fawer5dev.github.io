@@ -79,22 +79,14 @@ export default function IndexNav() {
                     href="/#about"
                   >
                     About
-                  </a>
-                  <a
-                    onClick={() => isShow(false)}
-                    aria-label="blogs"
-                    href="/blog"
-                  >
-                    Blogs
-                  </a>
+                  </a>                  
                   <a
                     onClick={() => isShow(false)}
                     aria-label="contact"
                     href="/#contact"
                   >
                     Contact
-                  </a>
-                  <a>Download CV</a>
+                  </a>                  
                 </ul>
               </div>
             </div>
