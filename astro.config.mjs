@@ -31,7 +31,7 @@ export default defineConfig({
       forward: ["dataLayer.push"]
     }
   }), robotsTxt({
-    sitemap: ['https://www.rohitk06.site/sitemap-0.xml', 'http://www.rohitk06.site/sitemap-index.xml']
+    sitemap: ['https://www.fawer5dev.site/sitemap-0.xml', 'http://www.fawer5dev.site/sitemap-index.xml']
   }), playformCompress()]
   // output: "server",
   // adapter: vercel({
