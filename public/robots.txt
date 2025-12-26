@@ -1,0 +1,7 @@
+# robots.txt for https://fawer5dev.github.io
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://fawer5dev.github.io/sitemap-index.xml
