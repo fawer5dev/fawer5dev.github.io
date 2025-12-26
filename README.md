@@ -38,7 +38,7 @@ I specialize in custom website design, development, and management using modern 
 I’m always open to new opportunities and collaborations. Feel free to reach out!
 
 - 📧 **Email:** fawer5@hotmail.com  
-- 🔗 **LinkedIn:** https://au.linkedin.com/in/fawer5 :contentReference[oaicite:1]{index=1}  
+- 🔗 **LinkedIn:** https://au.linkedin.com/in/fawer5
 - 💼 **Portfolio:** https://fawer5dev.github.io/
 
 ---
