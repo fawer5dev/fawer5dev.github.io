@@ -26,12 +26,13 @@ export const translations = {
     },
     footer: {
       copyright: "All rights reserved.",
-      builtWith: "Built with",
+      builtWith: "From 🇨🇴 built with",
       and: "and",
     },
     hero: {
       jobTitle: "Software Engineer",
       description: "I focus on developing scalable, cutting-edge solutions that transform user experiences and drive business value. With a proven track record in the insurance and digital agency sectors, I design and manage custom web ecosystems leveraging the latest technology stacks. I am passionate about tackling complex technical challenges where I can deliver immediate impact while continuing to evolve professionally. If you are looking for a developer committed to technical excellence and continuous growth, let's connect!",
+      location: "Melbourne, Australia / Remote",
     },
     workExperience: [
       {
@@ -150,12 +151,13 @@ export const translations = {
     },
     footer: {
       copyright: "Todos los derechos reservados.",
-      builtWith: "Construido con",
+      builtWith: "Desde 🇨🇴 construido con",
       and: "y",
     },
     hero: {
       jobTitle: "Ingeniero de Sistemas",
       description: "Me enfoco en desarrollar soluciones escalables y de vanguardia que transforman las experiencias del usuario y generan valor comercial. Con un historial comprobado en los sectores de seguros y agencias digitales, diseño y gestiono ecosistemas web personalizados aprovechando las últimas tecnologías. Me apasiona abordar desafíos técnicos complejos donde puedo generar un impacto inmediato mientras continúo evolucionando profesionalmente. Si buscas un desarrollador comprometido con la excelencia técnica y el crecimiento continuo, ¡conectemos!",
+      location: "Melbourne, Australia / Remoto",
     },
     workExperience: [
       {

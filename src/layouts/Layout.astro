@@ -9,10 +9,10 @@ interface Props {
 }
 
 const {
-  title = "Fawer Vargas - Full Stack Developer & Software Engineer",
-  description = "Experienced Full Stack Developer specializing in React, Angular, Node.js, and cloud solutions. Building scalable web applications with modern technologies. Based in Melbourne, Australia.",
+  title = "Fawer Vargas - Software Engineer",
+  description = "Experienced Full Stack Developer. Building scalable web applications with modern technologies. From Colombia but based in Melbourne, Australia.",
   image = "/profile.jpeg",
-  keywords = "Full Stack Developer, Software Engineer, React, Angular, Node.js, TypeScript, JavaScript, Web Development, Melbourne Developer, Portfolio"
+  keywords = "Full Stack Developer, Software Engineer, Java, JavaScript, TypeScript, PHP, Angular, Node.js, n8n, Web Development, Melbourne Developer, Colombian Developer, Portfolio"
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
@@ -50,7 +50,7 @@ const socialImageURL = new URL(image, Astro.site);
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={socialImageURL} />
-    <meta name="twitter:creator" content="@fawer5dev" />
+    <meta name="twitter:creator" content="@fawer5" />
     
     <!-- Additional SEO -->
     <meta name="robots" content="index, follow" />
