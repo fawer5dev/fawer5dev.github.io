@@ -122,6 +122,12 @@ export const translations = {
           "A small app that generates random passwords based on user preferences and copies them to clipboard.",
         ],
       },
+      {
+        title: "Excel to SQL Converter",
+        description: [
+          "A browser-based tool that simplifies the process of converting Excel spreadsheet data into SQL INSERT statements for database import operations.",
+        ],
+      },
     ],
   },
   ES: {
@@ -245,6 +251,12 @@ export const translations = {
         title: "Generador de Contraseñas",
         description: [
           "Una pequeña aplicación que genera contraseñas aleatorias basadas en las preferencias del usuario y las copia al portapapeles.",
+        ],
+      },
+      {
+        title: "Conversor de Excel a SQL",
+        description: [
+          "Una herramienta basada en navegador que simplifica el proceso de convertir datos de hojas de cálculo de Excel en declaraciones SQL INSERT para operaciones de importación de bases de datos.",
         ],
       },
     ],

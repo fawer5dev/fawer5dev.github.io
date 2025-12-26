@@ -143,6 +143,16 @@ export const projects = [
     ],
     tech: ["HTML", "JavaScript", "CSS"],
     live: "https://calm-creponne-26b379.netlify.app/",
-    image: "/password-generator-screenshot.png"
+    image: "/password-generator.png"
+  },
+  {
+    title: "Excel to SQL Converter",
+    github: "https://github.com/fawer5dev/xlsxToSql",
+    description: [
+      "A browser-based tool that simplifies the process of converting Excel spreadsheet data into SQL INSERT statements for database import operations.",
+    ],
+    tech: ["HTML", "JavaScript", "CSS"],
+    live: "https://stately-salamander-a33024.netlify.app/",
+    image: "/excel-to-SQL-converter.png"
   },
 ];

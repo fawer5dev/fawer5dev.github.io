@@ -59,7 +59,7 @@ export default function ProjectsSection() {
                   </div>
                 )}
                 
-                <CardContent className="flex-grow">
+                <CardContent className="flex-grow pt-6">
                   <ul className="list-disc ml-4 space-y-1 text-sm group-hover:space-y-2 transition-all duration-300">
                     {translatedProject.description.map((desc, i) => (
                       <motion.li
