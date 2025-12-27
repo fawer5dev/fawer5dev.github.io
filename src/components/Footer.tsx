@@ -31,6 +31,21 @@ export default function Footer() {
             viewport={{ once: true }}
             whileHover={{ scale: 1.01 }}
           >
+            {t.footer.from}{" "}
+            <motion.span
+              className="inline-block"
+              animate={{
+                rotate: [0, 14, -8, 14, -4, 10, 0],
+              }}
+              transition={{
+                repeat: Infinity,
+                repeatType: "loop",
+                duration: 2.5,
+                ease: "easeInOut",
+              }}
+            >
+              🇨🇴
+            </motion.span>{" "}
             {t.footer.builtWith}{" "}
             <motion.span
               className="inline-block"

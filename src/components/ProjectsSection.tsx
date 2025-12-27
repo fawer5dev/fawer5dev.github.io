@@ -74,6 +74,23 @@ export default function ProjectsSection() {
                       </motion.li>
                     ))}
                   </ul>
+                  
+                  {/* Technology Tags */}
+                  <div className="flex flex-wrap gap-2 mt-4">
+                    {project.tech.map((tech, i) => (
+                      <motion.span
+                        key={i}
+                        className="px-3 py-1 text-xs font-medium rounded-full bg-gradient-to-r from-purple-500/10 to-pink-500/10 text-purple-600 dark:text-purple-400 border border-purple-500/20"
+                        initial={{ opacity: 0, scale: 0.8 }}
+                        whileInView={{ opacity: 1, scale: 1 }}
+                        transition={{ delay: i * 0.05 }}
+                        viewport={{ once: true }}
+                        whileHover={{ scale: 1.05 }}
+                      >
+                        {tech}
+                      </motion.span>
+                    ))}
+                  </div>
                 </CardContent>
                 <CardFooter className="flex flex-wrap gap-4 justify-center md:justify-start items-center border-t border-border/30 bg-gradient-to-r from-purple-500/5 to-pink-500/5 pt-4">
                   <motion.a

@@ -65,7 +65,7 @@ export const workExperience = [
 export const education = [
   {
     institution: "Fundación Universitaria San Martín",
-    location: "Bogotá, Colombia",
+    location: "Zipaquirá, Colombia",
     degree: "Bachelor of Engineering - BE in Systems Engineering",
     period: "2006 - 2011",
     achievements: [
@@ -73,7 +73,7 @@ export const education = [
   },
   {
     institution: "Fundación Universitaria San Martín",
-    location: "Bogotá, Colombia",
+    location: "Zipaquirá, Colombia",
     degree: "Diploma - Proyect Management",
     period: "2012 - 2012",
     achievements: [

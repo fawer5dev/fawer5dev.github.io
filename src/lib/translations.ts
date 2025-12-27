@@ -26,7 +26,8 @@ export const translations = {
     },
     footer: {
       copyright: "All rights reserved.",
-      builtWith: "From 🇨🇴 built with",
+      from: "From",
+      builtWith: "built with",
       and: "and",
     },
     hero: {
@@ -157,7 +158,8 @@ export const translations = {
     },
     footer: {
       copyright: "Todos los derechos reservados.",
-      builtWith: "Desde 🇨🇴 construido con",
+      from: "Desde",
+      builtWith: "construido con",
       and: "y",
     },
     hero: {
