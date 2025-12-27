@@ -87,13 +87,13 @@ export const translations = {
     education: [
       {
         institution: "Fundación Universitaria San Martín",
-        location: "Bogotá, Colombia",
+        location: "Zipaquirá, Colombia",
         degree: "Bachelor of Engineering - BE in Systems Engineering",
         period: "2006 - 2011",
       },
       {
         institution: "Fundación Universitaria San Martín",
-        location: "Bogotá, Colombia",
+        location: "Zipaquirá, Colombia",
         degree: "Diploma - Proyect Management",
         period: "2012 - 2012",
       },
@@ -219,13 +219,13 @@ export const translations = {
     education: [
       {
         institution: "Fundación Universitaria San Martín",
-        location: "Bogotá, Colombia",
+        location: "Zipaquirá, Colombia",
         degree: "Ingeniería de Sistemas",
         period: "2006 - 2011",
       },
       {
         institution: "Fundación Universitaria San Martín",
-        location: "Bogotá, Colombia",
+        location: "Zipaquirá, Colombia",
         degree: "Diploma - Gestión de Proyectos",
         period: "2012 - 2012",
       },
